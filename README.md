@@ -18,6 +18,7 @@ Download instructions:
 
 2.) Download the file and open it on Xcode
               or 
+              
 3.) git clone https://github.com/bentaro89/NumNumNum.git in terminal and open it through xcode there
 
 4.) Run simulation on iphone 8 for best experience 
