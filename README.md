@@ -25,3 +25,5 @@ Download instructions:
 
 
 NOTE: Level NOOB 1-5 and Legend are the only levels that are playable. The rest of the levels are under construction. You can scroll in the level menu to see all 50 levels. 
+
+Total programming time = 30+ hours
